@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-Z' 'c-e'
+echo 'Linuxize' | tr 'a-z' 'A-Z'
